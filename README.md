@@ -13,6 +13,7 @@ Chef Claude is an app that suggests recipes based on the ingredients you have on
 
 ## Features
 - Add ingredients one by one.
+- minimum 4 ingredients should be added.
 - Generate recipes based on your list of ingredients.
 - Receive recipes in Markdown format.
 
